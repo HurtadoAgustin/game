@@ -1,0 +1,19 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HurtadoAgustin/game.git"
+  },
+  "author": "Hurtado Leandro Agustin <leandroagustinhurtado@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HurtadoAgustin/game/issues"
+  },
+  "homepage": "https://github.com/HurtadoAgustin/game#readme"
+}
