@@ -1,0 +1,26 @@
+*{box-sizing:border-box; padding:0; margin:0;}
+html{font-size: 62.5%;}
+
+body{
+  transform: rotate(-90deg);
+}
+
+main{
+  margin: 50px;
+}
+
+footer{
+  font-size: 2rem;
+}
+
+.cell{
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.blue{background-color: blue;}
+.pink{background-color: pink;}
+.red{background-color: red;}
+.green{background-color: green;}
+.yellow{background-color: yellow;}
+.black{background-color: black;}
